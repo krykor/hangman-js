@@ -4,7 +4,7 @@
 
 _Hangman_ - a simple JS game based on guessing the individual letters of a random word.
 
-[In this repository](https://github.com/krykor/hangman-js) the application has been **rewritten** from JS to ReactJS and expanded with new possibilities.
+[In this repository](https://github.com/krykor/hangman-react) the application has been **rewritten** from JS to ReactJS and expanded with new possibilities.
 
 ## Technologies
 
